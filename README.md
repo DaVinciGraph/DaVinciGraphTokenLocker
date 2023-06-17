@@ -37,11 +37,7 @@ A smart contract fee of 10 HBAR is applicable.
 
 ## Useful Links
 
-- [About TokenLocker](https://davincigraph.io/devs)
+- [About TokenLocker](https://davincigraph.io/devs/locks/contracts)
 - [DaVinciGraph TokenLocker](https://davincigraph.io/devs)
 
 ---
-
-## Contribute
-
-Feel free to dive in! [Open an issue](https://github.com/username/repo/issues/new) or submit PRs.
